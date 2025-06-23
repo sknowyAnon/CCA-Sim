@@ -1,0 +1,5 @@
+[REALM] Realm1 private data:  100
+[REALM] Realm1 private data encrypted: 190
+[REALM] Realm1 writing shared memory: Hello from Realm1!
+[REALM] Realm1 waiting for Realm2...
+[REALM] Realm1 receive message from Realm2: Hello back from Realm2!
